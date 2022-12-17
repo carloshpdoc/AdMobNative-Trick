@@ -1,0 +1,1 @@
+# AdMobNative-Trick
